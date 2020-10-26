@@ -1,39 +1,39 @@
-![Screenshot](Resume-Header.jpeg)
-# SARATHKRISHNAN G S
-> [sarathkrishnangs@gmail.com](mailto:sarathkrishnangs@gmail.com)
+<!--![Screenshot](Resume-Header.jpeg)-->
+# ABI S
+> [abicski@gmail.com](mailto:abicski@gmail.com)
   | 
-  [GitHub](https://github.com/Sarathkrishnan)
+  [GitHub](https://github.com/Abi-S)
   | 
-  [LinkedIn](https://www.linkedin.com/in/sarath-krishnan-g-s-aa9b19147/)
+  [LinkedIn](https://www.linkedin.com/in/)
   | 
-  [Instagram](https://www.instagram.com/sarathkrishnan.gs/)
+  [Instagram](https://www.instagram.com/)
   | 
-  [Blog](https://sarathkrishnangs.blogspot.com/)
+  [Blog](https://xpectcorps.com/)
 
 
 
 ## SKILLS
 ---
 **Languages**
-: Python , JavaScript, C , C++, Dart
+: Python , JavaScript, C , C++, Dart, Java
 
 **Frameworks**
 : Flutter, 
 
 **Web technologies**
-: HTML, CSS, Word-press, Bootstrap
+: HTML, CSS, Word-press, Bootstrap,
 
 **Database**
-: MySQL,  SQLlite
+: MySQL, 
 
 **Tools**
 : Git, Jira, Trello
 
 **Graphics Designer**
-: Inkscape Vector graphics, Gimp, KdenLive, Adobe XD
+: Photoshop, Adobe XD
 
 **Others**
-: Comfortable with any GNU/Linux OSs, Familiar with hosting platforms like hostinger
+: Comfortable with any GNU/Linux OSs, Familiar with hosting platforms like hostinger and Firebase
 
 
 
@@ -41,9 +41,9 @@
 ---
 Degree | Board | Institution | Year | Grade
 ------------ | ------------- | ------------ | ------------- | -------------
-BTech | Kerala Technological University | SHM College of Engineering	| 2020 | P
-Intermediate Education (12) | Kerala | Govt H S S Kottarakara | 2016 | 90 %
-Metric Education (10) | Kerala | R V H S Valakom | 2014 | 90 %
+BTech | Kerala Technological University | Hindustan College of Engineering	| 2019 | P
+Intermediate Education (12) | Kerala | C P H S S Kuttikkadu | 2015 | 90 %
+Metric Education (10) | Kerala | C P H S S Kuttikkadu  | 2014 | 90 %
 
 ## WORK EXPERIENCE
 ---
@@ -53,7 +53,7 @@ Metric Education (10) | Kerala | R V H S Valakom | 2014 | 90 %
 - **PillCart**
 : Medicine delivery web and mobile Application. Working as     a UI Designer as well as a Flutter Developer Intern *( On going)*     
      
-- **Neural     network for Wild animal recognition**
+- **Xpart**
 : Train a     neural network based on YOLO algorithm using Darknet framework. *(Final Year Btech project)    ( March 2020 )* [GitHub](https://github.com/Sarathkrishnan/yolo-meta).
 
 - **[Website](https://tdbcskadakkal.in/)** for CBSE school (Wordpress site) Responsible     for all aspect of the website. *( January 2020 )*
